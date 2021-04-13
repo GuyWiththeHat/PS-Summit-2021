@@ -1,0 +1,10 @@
+cougar
+snake
+crow
+aardvark
+chamois
+highland cow
+rat
+musk deer
+ape
+squirrel
